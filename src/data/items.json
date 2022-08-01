@@ -1,0 +1,64 @@
+
+[
+  {
+    "name":"Weight Control",
+    "imgUrl": "/images/food1.jpg",
+    "price": 26.99,
+    "id": 1
+  },
+  {
+    "name":"Indoor Health",
+    "imgUrl": "/images/food2.jpg",
+    "price": 26.99,
+    "id": 2
+  },
+  {
+    "name":"Hairball Control",
+    "imgUrl": "/images/food3.jpg",
+    "price": 34.99,
+    "id": 3
+  },
+  {
+    "name":"Seafood & Chicken Pate",
+    "imgUrl": "/images/food4.jpg",
+    "price": 45.00,
+    "id": 4
+  },
+  {
+    "name":"seafood gravy",
+    "imgUrl": "/images/food5.jpg",
+    "price": 55.99,
+    "id": 5
+  },
+  {
+    "name":"Kitty Waste Bags",
+    "imgUrl": "/images/litter1.jpg",
+    "price": 9.55,
+    "id": 6
+  },
+  {
+    "name":"Litter Scoop",
+    "imgUrl": "/images/litter2.jpg",
+    "price": 8.99,
+    "id": 7
+  },
+  {
+    "name":"Cat Litter",
+    "imgUrl": "/images/litter3.jpg",
+    "price": 12.99,
+    "id": 8
+  },
+  {
+    "name":"Litter Box",
+    "imgUrl": "/images/litter4.jpg",
+    "price": 34.99,
+    "id": 9
+  },
+  {
+    "name":"Litter Mat",
+    "imgUrl": "/images/litter5.jpg",
+    "price": 13.45,
+    "id": 10
+  }
+]
+
